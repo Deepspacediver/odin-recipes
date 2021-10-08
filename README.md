@@ -1,5 +1,5 @@
 Finished up the project.
-Used up all the headings, all the lists (organised, unorgoaised) Used img from the local directories. 
+Used up all the headings, all the lists (organised, unorganised) Used img from the local directories. 
 Tried to format the site using scuffed multiple hyphens and inserting paragraphs for additional spaces.
  Need to remember more about adding alt to the images. 
  
