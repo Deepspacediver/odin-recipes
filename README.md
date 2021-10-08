@@ -5,6 +5,6 @@ Tried to format the site using scuffed multiple hyphens and inserting paragraphs
  
  Managed to do without any backtracking, wrote up all the code without copying, as a practice
 
- Need to use more polish and usage of <em> or <strong>
+ Need to use more polish and usage of em or strong
 
 
